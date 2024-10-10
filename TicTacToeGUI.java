@@ -10,7 +10,7 @@ import javax.swing.*;
  * moves, game status display, and menu options for starting a
  * new game or quitting.
  *
- * @author Ayra Mensah, 101221911
+ * @author Ayra Mensah
  * @version April 8, 2024
  */
 public class TicTacToeGUI extends TicTacToe
