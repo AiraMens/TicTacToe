@@ -6,7 +6,7 @@ import java.util.*;
  * @author Lynn Marshall
  * @version November 8, 2012
  * 
- * @author Ayra Mensah, 101221911
+ * @author Ayra Mensah
  * @version March 19, 2024
  */
 
